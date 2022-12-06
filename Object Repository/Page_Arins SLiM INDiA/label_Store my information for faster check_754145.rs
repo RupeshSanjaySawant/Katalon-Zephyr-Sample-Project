@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Store my information for faster check_754145</name>
+   <tag></tag>
+   <elementGuidId>9a0f9328-7fa0-4698-a6fd-dd05b338b108</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Box-sc-1fygfj3-0.Flex-sc-93g7hz-0.Checkbox__CheckboxContainer-sc-7gvyze-0.Checkbox___StyledCheckboxContainer-sc-7gvyze-1.hcomiT > label.Box-sc-1fygfj3-0.Text-y7j1oh-0.Label-umix5o-0.eMyFFc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='step-cartDetails']/div[2]/div[2]/form/div[4]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1399f76d-fc64-4c0c-ab69-92edffc79b68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>16deda21-60ea-41d3-9741-4297d802079c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>user-signup</value>
+      <webElementGuid>68169fde-aa7c-4416-b5a2-96119c4c87cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>display</name>
+      <type>Main</type>
+      <value>block</value>
+      <webElementGuid>2c3f2633-4916-4efe-b708-368c17d97224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>gray.800</value>
+      <webElementGuid>dcb48c5f-4498-4227-8049-b4d54bcb7103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-size</name>
+      <type>Main</type>
+      <value>xs</value>
+      <webElementGuid>23526b49-60e2-4158-8085-a0dd2a463eb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Box-sc-1fygfj3-0 Text-y7j1oh-0 Label-umix5o-0 eMyFFc</value>
+      <webElementGuid>48c719ea-b2c2-4d84-8006-d76abab0e8ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Store my information for faster checkout in the future.By signing up, you may receive exclusive promotions by email.</value>
+      <webElementGuid>3000131f-87e0-444f-889a-f1a1fd6a2624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-cartDetails&quot;)/div[2]/div[@class=&quot;Box-sc-1fygfj3-0 Card-sc-1581gva-0 GjRVr&quot;]/form[1]/div[@class=&quot;Box-sc-1fygfj3-0 dMFfms&quot;]/div[@class=&quot;Box-sc-1fygfj3-0 Flex-sc-93g7hz-0 Checkbox__CheckboxContainer-sc-7gvyze-0 Checkbox___StyledCheckboxContainer-sc-7gvyze-1 hcomiT&quot;]/label[@class=&quot;Box-sc-1fygfj3-0 Text-y7j1oh-0 Label-umix5o-0 eMyFFc&quot;]</value>
+      <webElementGuid>8538880f-cff6-4e47-a662-8dd665002f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Arins SLiM INDiA/iframe_concat(id(, , commerce_cart_frame, ,_70d00f</value>
+      <webElementGuid>ad1d9f8c-9ec7-4669-85bb-5dc2e5b456f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='step-cartDetails']/div[2]/div[2]/form/div[4]/div/label</value>
+      <webElementGuid>5d92c441-7cff-42ca-8bbd-5b117ec176a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/following::label[1]</value>
+      <webElementGuid>8b2a0ac4-69f8-4683-9d7f-cbc289b5a033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::label[2]</value>
+      <webElementGuid>c1b2adde-ca69-439d-a926-8a848163fe5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Store my information for faster checkout in the future.']/parent::*</value>
+      <webElementGuid>623af7fc-2ef3-4096-80f2-a694d1bb5b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/label</value>
+      <webElementGuid>713b87bd-79e2-45f3-8f81-f22a35853d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Store my information for faster checkout in the future.By signing up, you may receive exclusive promotions by email.' or . = 'Store my information for faster checkout in the future.By signing up, you may receive exclusive promotions by email.')]</value>
+      <webElementGuid>277dda15-7e9a-42bd-8cf2-eafabf346ca9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

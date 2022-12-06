@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_900 AM</name>
+   <tag></tag>
+   <elementGuidId>b8b95164-0b16-4151-9842-41d1ed32623d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.x-el.x-el-p.c2-1.c2-2.c2-w.c2-x.c2-6j.c2-2k.c2-35.c2-4q.c2-k.c2-l.c2-9z.c2-a0.c2-2m.c2-j.c2-4k.c2-a1.c2-y.c2-7x.c2-5n.c2-5o.c2-4j.c2-5p.c2-3.c2-6k.c2-2q.c2-a2.c2-a3.c2-6o.c2-6p.c2-6q.c2-6r</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bs-7']/span/section/div/div/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>49a78d69-8767-4488-abb4-b93742abfbc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ux</name>
+      <type>Main</type>
+      <value>Details</value>
+      <webElementGuid>b2d78d93-901a-4cb0-97c9-b5566ecee1b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aid</name>
+      <type>Main</type>
+      <value>AVAILABLE_TIMES_PERIOD_TIME</value>
+      <webElementGuid>9c6ae8e2-0024-4fcd-8683-2bf91ffa5884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-typography</name>
+      <type>Main</type>
+      <value>DetailsAlpha</value>
+      <webElementGuid>04b3ac5e-3eb0-40be-8178-f4fce1a42468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-el x-el-p c2-1 c2-2 c2-w c2-x c2-6j c2-2k c2-35 c2-4q c2-k c2-l c2-9z c2-a0 c2-2m c2-j c2-4k c2-a1 c2-y c2-7x c2-5n c2-5o c2-4j c2-5p c2-3 c2-6k c2-2q c2-a2 c2-a3 c2-6o c2-6p c2-6q c2-6r</value>
+      <webElementGuid>95862789-1c1c-46c9-a5fd-d87a0a55fbf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9:00 AM</value>
+      <webElementGuid>d3134eb8-e981-4b7c-8a42-a282ab470646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-7&quot;)/span[@class=&quot;x-el x-el-span c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 c2-7 c2-8&quot;]/section[@class=&quot;x-el x-el-section c2-1 c2-2 c2-1j c2-1k c2-1l c2-15 c2-70 c2-3 c2-4 c2-1n c2-1o c2-5 c2-6 c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-1p c2-1q c2-1r c2-1s c2-1t c2-15 c2-3 c2-4 c2-1u c2-5 c2-1v c2-6 c2-1w c2-7 c2-1x c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-15 c2-3 c2-4 c2-5 c2-6 c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-g c2-4y c2-4z c2-75 c2-2k c2-51 c2-52 c2-53 c2-3 c2-4 c2-54 c2-55 c2-56 c2-57 c2-5 c2-76 c2-6 c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-4y c2-58 c2-59 c2-5a c2-1t c2-5b c2-5c c2-5d c2-5e c2-g c2-3o c2-h c2-3 c2-4 c2-5h c2-5i c2-5j c2-5k c2-5 c2-77 c2-78 c2-6 c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-k c2-3 c2-4 c2-5 c2-6 c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-3 c2-4 c2-79 c2-7a c2-5 c2-6 c2-7b c2-7c c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-80 c2-3 c2-4 c2-5 c2-6 c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-g c2-4z c2-50 c2-9p c2-9q c2-35 c2-3 c2-4 c2-5 c2-6 c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-58 c2-59 c2-9r c2-9s c2-9t c2-3 c2-4 c2-5a c2-1t c2-5f c2-5g c2-a5 c2-5 c2-6 c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-3 c2-4 c2-5 c2-6 c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-g c2-4z c2-50 c2-9p c2-9q c2-9u c2-3 c2-4 c2-5 c2-6 c2-7 c2-8&quot;]/div[@class=&quot;x-el x-el-div c2-1 c2-2 c2-9v c2-58 c2-59 c2-9w c2-2i c2-9x c2-9y c2-6v c2-3 c2-4 c2-3e c2-5 c2-6 c2-7 c2-8&quot;]/p[@class=&quot;x-el x-el-p c2-1 c2-2 c2-w c2-x c2-6j c2-2k c2-35 c2-4q c2-k c2-l c2-9z c2-a0 c2-2m c2-j c2-4k c2-a1 c2-y c2-7x c2-5n c2-5o c2-4j c2-5p c2-3 c2-6k c2-2q c2-a2 c2-a3 c2-6o c2-6p c2-6q c2-6r&quot;]</value>
+      <webElementGuid>f2e10c46-4450-4dcc-aa96-726bd425e2fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bs-7']/span/section/div/div/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/p</value>
+      <webElementGuid>39f73f30-ae5e-4bed-8401-31bf8b7055d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::p[3]</value>
+      <webElementGuid>fab6b023-20be-4343-abf1-aab6fb3690f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::p[3]</value>
+      <webElementGuid>dcfdd34d-5fe9-4c51-8419-369cfb687078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See More'])[1]/preceding::p[6]</value>
+      <webElementGuid>9781e970-8c5f-40dc-ad59-ac4d136c6273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See More'])[2]/preceding::p[17]</value>
+      <webElementGuid>cb4fd7e8-072f-4eae-869c-5a1b4f43f592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='9:00 AM']/parent::*</value>
+      <webElementGuid>b05a738d-7a5a-4c8b-aa4a-5abdf097aebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/p</value>
+      <webElementGuid>632606ac-02af-4d48-af52-c4acaad6f784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '9:00 AM' or . = '9:00 AM')]</value>
+      <webElementGuid>4b24fe9a-cb51-4462-9562-073af8f97154</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

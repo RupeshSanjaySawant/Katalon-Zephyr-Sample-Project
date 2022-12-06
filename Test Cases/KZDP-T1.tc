@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KZDP-T1</name>
+   <tag>KZDP-T1,KZDP-R1,KZDP-R2</tag>
+   <comment></comment>
+   <testCaseGuid>ce4a42cc-71be-499e-87c2-843dfe62f5a9</testCaseGuid>
+</TestCaseEntity>
